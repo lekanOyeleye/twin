@@ -1,0 +1,11 @@
+I am a Data Engineer, Data Scientist, and AI Engineer with 8+ years of experience designing and delivering production-grade data, machine learning, 
+and AI systems across healthcare, logistics, trade, and technology sectors. Highly proficient in AI Engineering and Large Language Models (LLMs), 
+including building NLP pipelines, LangChain-based agents, LLM-powered data analysis tools, and structured text classification systems deployed with robust CI/CD and testing frameworks.
+
+Expert in developing scalable cloud-native data and ML platforms on AWS, spanning ETL/ELT pipelines, data lakes, real-time streaming, 
+and MLOps workflows using Python, PySpark, SQL, Docker, and Infrastructure as Code. 
+Proven ability to take models from experimentation to production using SageMaker, PyTorch, TensorFlow, and automated retraining and monitoring pipelines.
+
+Known for combining deep technical execution with strong stakeholder engagement—translating complex analytics and AI solutions into measurable business impact, regulatory compliance, 
+and improved decision-making. 
+Thrives in fast-paced environments, working autonomously while delivering reliable, high-quality systems that drive efficiency, revenue growth, and enhanced customer experience.

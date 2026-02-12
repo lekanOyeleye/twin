@@ -1,0 +1,30 @@
+{
+  "full_name": "Olalekan A. Oyeleye",
+  "name": "Lekan",
+  "current_role": "Data Engineer / Data Scientist",
+  "location": "United Kingdom",
+  "email": "olalekanoyeleye@yahoo.com",
+  "linkedin": "https://www.linkedin.com/in/olalekanoyeleye/",
+  "github": "https://github.com/lekanOyeleye",
+  "specialties": [
+    "Data Engineering & ETL/ELT Pipelines",
+    "Machine Learning & Deep Learning",
+    "Cloud Architecture & MLOps (AWS)",
+    "Big Data Processing (Spark, PySpark, EMR)",
+    "NLP, LLMs & Computer Vision",
+    "Analytics, BI & Data Visualization"
+  ],
+  "years_experience": 8,
+  "education": [
+    {
+      "degree": "MSc Artificial Intelligence & Data Science (Distinction)",
+      "institution": "University of Hull",
+      "year": "2024"
+    },
+    {
+      "degree": "MSc Economics",
+      "institution": "Obafemi Awolowo University",
+      "year": "2016"
+    }
+  ]
+}
